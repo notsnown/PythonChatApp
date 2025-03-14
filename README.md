@@ -21,16 +21,15 @@ O projeto inclui um servidor que gerencia múltiplas conexões de clientes e ret
 🔧 COMO EXECUTAR?
 
 1️⃣ Clonar o Repositório
-git clone https://github.com/seu-usuario/SimpleChat.git
+git clone https://github.com/notsnown/PythonChatApp.git
 
 2️⃣ Acessar a Pasta do Projeto
-cd SimpleChat
-
+cd PythonChatApp
 3️⃣ Executar o Servidor
 python server.py
 
 4️⃣ Executar os Clientes (em janelas separadas)
-python client.py
+python cliente.py
 
 .
 
