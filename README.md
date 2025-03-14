@@ -3,11 +3,13 @@
  PythonChatApp é uma aplicação de chat simples desenvolvida em Python utilizando sockets e threads. 
 O projeto inclui um servidor que gerencia múltiplas conexões de clientes e retransmite mensagens entre eles.
 
+
 🚀 FUNCIONALIDADES
 ✅ Servidor que aceita conexões de múltiplos clientes
 ✅ Envio e recepção de mensagens em tempo real
 ✅ Uso de threads para comunicação simultânea
 ✅ Implementado com socket programming do Python
+
 
 🔧 COMO EXECUTAR?
 1️⃣ Clonar o Repositório
@@ -22,10 +24,12 @@ python server.py
 4️⃣ Executar os Clientes (em janelas separadas)
 python client.py
 
+
 📚 TECNOLOGIAS UTILIZADAS
 - Python 3
 - Biblioteca socket (para comunicação em rede)
 - Biblioteca threading (para múltiplas conexões)
+
 
 💡 OBJETIVO
 Este projeto foi desenvolvido como uma atividade prática para entender o funcionamento de sockets e comunicação cliente-servidor em Python.
