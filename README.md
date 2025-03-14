@@ -9,8 +9,11 @@ O projeto inclui um servidor que gerencia múltiplas conexões de clientes e ret
 🚀 FUNCIONALIDADES
 
 ✅ Servidor que aceita conexões de múltiplos clientes
+
 ✅ Envio e recepção de mensagens em tempo real
+
 ✅ Uso de threads para comunicação simultânea
+
 ✅ Implementado com socket programming do Python
 
 .
